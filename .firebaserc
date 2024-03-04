@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-1692a": {
+      "hosting": {
+        "da-keep": [
+          "danotes-1692a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-1692a"
+  }
+}
